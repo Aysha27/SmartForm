@@ -233,3 +233,4 @@ var positionArray = [false, false, false];
 		});
 	});
 });
+
